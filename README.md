@@ -9,6 +9,7 @@ This is for dumping things like 2716, 2732, 2764, 27128, and 27256 PROM chips.
 ## Requirements
 
 * An Arduino with enough pins. I used a Mega 2560 because it's loaded with pins. You basically need 8 pins for the address lines, and then however many pins for the data lines, depending on what size of ROM you're dumping.
+* A ROM to dump.
 
 ## How
 
